@@ -17,16 +17,16 @@ I am a dedicated Information and Communication Technology student with a strong 
 ## 🎓 Education 
 
 ### Iketsetseng Comprehensive Secondary School 
-** National Senior Certificate ** 
-* 2021 * 
+**National Senior Certificate** 
+*2021* 
 
 ### Cape Peninsula University of Technology 
-** Higher Certificate in Information and Communication Technology ** 
-* 2023 * 
+**Higher Certificate in Information and Communication Technology** 
+*2023* 
 
 ### Cape Peninsula University of Technology 
-** Diploma in Information and Communication Technology ** 
-* 2024-2026 * 
+**Diploma in Information and Communication Technology** 
+*2024-2026* 
 
 --- 
 
