@@ -1,12 +1,12 @@
 # Rose Molakeng 
 
-📍 Cape Station, Adderly St, Foreshore, Cape Town, 8001 
-📱 0836318154 
-📧 231173164@mycput.ac.za 
-🔗 [LinkedIn](https://www.linkedin.com/in/rose-molakeng-741935352) 
-🔗 [GitHub](https://github.com/231173164) 
+📍 Cape Station, Adderly St, Foreshore, Cape Town, 8001  
+📱 0836318154  
+📧 231173164@mycput.ac.za  
+🔗 [LinkedIn](https://www.linkedin.com/in/rose-molakeng-741935352)  
+🔗 [GitHub](https://github.com/231173164)
 
---- 
+---
 
 ## 👩‍💻 About Me 
 
@@ -60,17 +60,17 @@ I am a dedicated Information and Communication Technology student with a strong 
 
 ---
 
-## 📫 References 
+## 📫 References
 
-### Mrs N. Tungela 
-Lecturer at CPUT 
-📱 0678055541 
-📧 tungelan@cput.ac.za 
+### Mrs N. Tungela  
+Lecturer at CPUT  
+📱 0678055541  
+📧 tungelan@cput.ac.za  
 
-### Mr T. Chowuraya 
-Lecturer at CPUT 
-📱 0780185724 
-📧 tawandachowraya@gmail.com 
+### Mr T. Chowuraya  
+Lecturer at CPUT  
+📱 0780185724  
+📧 tawandachowraya@gmail.com  
 
 ---
 
