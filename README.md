@@ -76,6 +76,6 @@ Lecturer at CPUT
 
 ## 📹 Mock Interview Video  
 
-[Watch my mock interview](Mock_interview.mp4)
+<video src="Mock_interview.mp4" controls></video>
 
 ---
