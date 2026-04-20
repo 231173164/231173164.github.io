@@ -95,7 +95,6 @@ As a result, I was able to create a professional CV that represents me well. Thi
 <video width="600" controls>
   <source src="Mock_interview.mp4" type="video/mp4">
 </video>
----
 
 ## Mock Interview Reflection
 
@@ -118,16 +117,16 @@ In the end, I managed to produce a complete interview video. This experience hel
 
 ## Github Website Reflection
 
-Situation:
+### Situation:
 I was required to create a CV website using GitHub, which was a new experience for me.
 
-Task:
+### Task:
 My task was to learn how to use GitHub, write my CV in Markdown, and deploy it as a live website, including adding my mock interview video.
 
-Action:
+### Action:
 I followed the steps to create a repository, edit the README file, and format my CV using Markdown. I also enabled GitHub Pages to make my website live. Along the way, I faced challenges, especially when my video was too large to upload, but I solved this by using an embedded video approach.
 
-Result:
+### Result:
 I successfully created a live CV website. This task improved my technical skills, especially in using GitHub, and gave me confidence in creating and managing online projects.
 
 --- 
