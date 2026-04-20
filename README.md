@@ -130,3 +130,15 @@ I followed the steps to create a repository, edit the README file, and format my
 I successfully created a live CV website. This task improved my technical skills, especially in using GitHub, and gave me confidence in creating and managing online projects.
 
 --- 
+
+## Overall Reflection 
+
+Overall, completing this assignment was both challenging and rewarding for me. At the beginning, I felt a bit overwhelmed, especially when working with GitHub and trying to understand how everything connects. Creating the CV, recording the mock interview, and building the website were all new experiences, so I had to take time to learn, repeat steps, and ask for help when I got stuck.
+
+Working on my CV helped me realise the importance of presenting my skills, education, and projects in a clear and professional way. It made me more aware of what I have achieved so far and how I can communicate that to others. The mock interview was also a valuable experience because it pushed me out of my comfort zone. Speaking on camera was not easy at first, but with practice, I became more confident and improved how I express myself.
+
+The GitHub part of the assignment was the most challenging but also the most interesting. Learning how to create a repository, write in Markdown, and publish a live website taught me new technical skills that I had never used before. I also faced difficulties, especially with uploading and displaying my video, but solving these problems helped me understand the platform better.
+
+Overall, this assignment taught me important skills such as problem-solving, patience, communication, and self-presentation. It also showed me that learning new tools can be difficult at first, but with effort and persistence, it becomes easier. I now feel more confident in both my technical abilities and my ability to present myself professionally.
+
+--- 
