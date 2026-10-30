@@ -1,4 +1,4 @@
-# Rose Molakeng 
+# Rose Mnguni
 
 📍 Cape Station, Adderly St, Foreshore, Cape Town, 8001  
 📱 0836318154  
