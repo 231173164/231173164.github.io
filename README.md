@@ -143,7 +143,7 @@ Overall, this assignment taught me important skills such as problem-solving, pat
 
 --- 
 
-# Rose Molakeng
+# For Second Semester
 
 🔗 [LinkedIn](https://www.linkedin.com/in/rose-molakeng-741935352) | 🔗 [GitHub](https://github.com/231173164) | 📧 231173164@mycput.ac.za
 
