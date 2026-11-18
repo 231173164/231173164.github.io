@@ -153,8 +153,6 @@ This is my Agile portfolio for the second semester of my Diploma in Information 
 
 **Team members:** Ncebakazi Ndiza (Scrum Master), Somila Ndoboza (Backend and Database Lead) and Rose Molakeng (UX/UI Designer, Frontend Developer and Tester)
 
-🔗 [Kasi-Book Trello Board](https://trello.com/b/4K3Rs1nR)
-
 **Contents:** [Agile Team Charter](#1-agile-team-charter) · [User Stories and Tasks](#2-user-stories-and-tasks) · [Product Backlog](#3-product-backlog) · [Sprint Backlog](#4-sprint-backlog) · [Agile Logbook](#5-agile-logbook)
 
 ---
