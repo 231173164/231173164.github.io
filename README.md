@@ -189,7 +189,7 @@ We completed a charter that the whole team can refer back to. I learned that a c
 
 Each Trello card has a user story in the description and a checklist of subtasks, and every subtask is given to a team member. Below is the Sprint 1 (Day 1) card, **Project Setup & Design**.
 
-![User story and subtasks on Trello](images/user-stories-and-tasks.png)
+![User story and subtasks on Trello](user-stories-and-tasks.png)
 
 | Item | Detail |
 |------|--------|
