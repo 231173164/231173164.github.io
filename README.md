@@ -220,7 +220,7 @@ Everyone knew what they were responsible for and we could see our progress throu
 
 Our product backlog on Trello holds everything that is required for the entire project, and we move items into sprints as we plan them.
 
-![Product Backlog on Trello](images/product-backlog.png)
+![Product Backlog on Trello](product-backlog.png)
 
 **Product backlog items:**
 
@@ -272,7 +272,7 @@ We now have a clear and visible list of the work for the whole project. I learne
 
 Our sprint backlog is made up of the cards on the Trello board for each sprint. Every sprint has cards for Day 1 to Day 4, and each card has a checklist and assigned members.
 
-![Sprint Backlog on Trello](images/sprint-backlog.png)
+![Sprint Backlog on Trello](sprint-backlog.png)
 
 **Sprint 1**
 
