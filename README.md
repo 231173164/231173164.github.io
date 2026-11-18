@@ -163,7 +163,7 @@ This is my Agile portfolio for the second semester of my Diploma in Information 
 
 ### Evidence
 
-📄 [Download our Agile Team Charter (Word document)](Agile_Team_Charter.docx)
+📄 [Download our Agile Team Charter (Word document)](Agile_Team_Charter_3_members.docx)
 
 Our charter explains why our team exists, who is on the team and what each member does, how we work (Scrum, daily stand-ups, planning, review and retrospective), our working agreements, how we communicate, how we make decisions, our Definition of Done, our core values, and the risks and constraints of the project.
 
